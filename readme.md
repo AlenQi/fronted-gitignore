@@ -5,8 +5,6 @@
 # ----------------------------------------------------------------------
 node_modules/*
 bower_components/*
-package.json
-package-lock.json
 npm-debug*
 yarn-debug*
 yarn-error*
